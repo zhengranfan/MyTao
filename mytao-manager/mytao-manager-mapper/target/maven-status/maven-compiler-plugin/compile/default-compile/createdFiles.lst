@@ -1,0 +1,11 @@
+com/mytao/mapper/TbContentMapper.class
+com/mytao/mapper/TbItemParamMapper.class
+com/mytao/mapper/TbItemParamItemMapper.class
+com/mytao/mapper/TbItemDescMapper.class
+com/mytao/mapper/TbContentCategoryMapper.class
+com/mytao/mapper/TbOrderItemMapper.class
+com/mytao/mapper/TbItemCatMapper.class
+com/mytao/mapper/TbOrderShippingMapper.class
+com/mytao/mapper/TbOrderMapper.class
+com/mytao/mapper/TbItemMapper.class
+com/mytao/mapper/TbUserMapper.class
