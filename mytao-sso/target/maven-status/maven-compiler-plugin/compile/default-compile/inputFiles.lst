@@ -1,0 +1,7 @@
+/Users/ia/Workspaces/MyEclipse CI/mytao-sso/src/main/java/com/mytao/sso/controller/PageController.java
+/Users/ia/Workspaces/MyEclipse CI/mytao-sso/src/main/java/com/mytao/sso/dao/JedisClient.java
+/Users/ia/Workspaces/MyEclipse CI/mytao-sso/src/main/java/com/mytao/sso/service/UserService.java
+/Users/ia/Workspaces/MyEclipse CI/mytao-sso/src/main/java/com/mytao/sso/dao/impl/JedisClientCluster.java
+/Users/ia/Workspaces/MyEclipse CI/mytao-sso/src/main/java/com/mytao/sso/service/impl/UserServiceImpl.java
+/Users/ia/Workspaces/MyEclipse CI/mytao-sso/src/main/java/com/mytao/sso/controller/UserController.java
+/Users/ia/Workspaces/MyEclipse CI/mytao-sso/src/main/java/com/mytao/sso/dao/impl/JedisClientSingleImpl.java

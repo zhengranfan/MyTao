@@ -1,2 +1,7 @@
+com/mytao/controller/ItemParamController.class
+com/mytao/controller/ContentController.class
 com/mytao/controller/PageController.class
 com/mytao/controller/ItemController.class
+com/mytao/controller/ItemCatController.class
+com/mytao/controller/ContentCategoryController.class
+com/mytao/controller/PictureController.class

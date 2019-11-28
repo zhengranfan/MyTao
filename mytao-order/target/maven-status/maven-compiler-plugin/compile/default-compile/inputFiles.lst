@@ -1,0 +1,9 @@
+/Users/ia/Workspaces/MyEclipse CI/mytao-order/src/main/java/com/mytao/order/service/impl/OrderServiceImpl.java
+/Users/ia/Workspaces/MyEclipse CI/mytao-order/src/main/java/com/mytao/order/util/BuyerRate.java
+/Users/ia/Workspaces/MyEclipse CI/mytao-order/src/main/java/com/mytao/order/util/OrderState.java
+/Users/ia/Workspaces/MyEclipse CI/mytao-order/src/main/java/com/mytao/order/controller/OrderController.java
+/Users/ia/Workspaces/MyEclipse CI/mytao-order/src/main/java/com/mytao/order/dao/impl/JedisClientCluster.java
+/Users/ia/Workspaces/MyEclipse CI/mytao-order/src/main/java/com/mytao/order/dao/impl/JedisClientSingleImpl.java
+/Users/ia/Workspaces/MyEclipse CI/mytao-order/src/main/java/com/mytao/order/pojo/Order.java
+/Users/ia/Workspaces/MyEclipse CI/mytao-order/src/main/java/com/mytao/order/dao/JedisClient.java
+/Users/ia/Workspaces/MyEclipse CI/mytao-order/src/main/java/com/mytao/order/service/OrderService.java

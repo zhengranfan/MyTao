@@ -43,6 +43,7 @@ com/mytao/pojo/TbOrderItem.class
 com/mytao/pojo/TbItemParamExample$GeneratedCriteria.class
 com/mytao/pojo/TbOrderExample$GeneratedCriteria.class
 com/mytao/pojo/TbItemCat.class
+com/mytao/pojo/ItemParamWithName.class
 com/mytao/pojo/TbUserExample$Criterion.class
 com/mytao/pojo/TbItemDescExample$Criterion.class
 com/mytao/pojo/TbItemParamItemExample.class

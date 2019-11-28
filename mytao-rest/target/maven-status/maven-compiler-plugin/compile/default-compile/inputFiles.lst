@@ -1,0 +1,17 @@
+/Users/ia/Workspaces/MyEclipse CI/mytao-rest/src/main/java/com/mytao/rest/dao/JedisClient.java
+/Users/ia/Workspaces/MyEclipse CI/mytao-rest/src/main/java/com/mytao/rest/pojo/CatNode.java
+/Users/ia/Workspaces/MyEclipse CI/mytao-rest/src/main/java/com/mytao/rest/service/ItemService.java
+/Users/ia/Workspaces/MyEclipse CI/mytao-rest/src/main/java/com/mytao/rest/service/iml/ItemCatServiceImpl.java
+/Users/ia/Workspaces/MyEclipse CI/mytao-rest/src/main/java/com/mytao/rest/dao/impl/JedisClientSingleImpl.java
+/Users/ia/Workspaces/MyEclipse CI/mytao-rest/src/main/java/com/mytao/rest/controller/ItemController.java
+/Users/ia/Workspaces/MyEclipse CI/mytao-rest/src/main/java/com/mytao/rest/service/RedisService.java
+/Users/ia/Workspaces/MyEclipse CI/mytao-rest/src/main/java/com/mytao/rest/controller/RedisController.java
+/Users/ia/Workspaces/MyEclipse CI/mytao-rest/src/main/java/com/mytao/rest/dao/impl/JedisClientCluster.java
+/Users/ia/Workspaces/MyEclipse CI/mytao-rest/src/main/java/com/mytao/rest/pojo/CatResult.java
+/Users/ia/Workspaces/MyEclipse CI/mytao-rest/src/main/java/com/mytao/rest/controller/ItemCatController.java
+/Users/ia/Workspaces/MyEclipse CI/mytao-rest/src/main/java/com/mytao/rest/service/ContentService.java
+/Users/ia/Workspaces/MyEclipse CI/mytao-rest/src/main/java/com/mytao/rest/service/iml/ItemServiceImpl.java
+/Users/ia/Workspaces/MyEclipse CI/mytao-rest/src/main/java/com/mytao/rest/service/iml/ContentServiceImpl.java
+/Users/ia/Workspaces/MyEclipse CI/mytao-rest/src/main/java/com/mytao/rest/service/ItemCatService.java
+/Users/ia/Workspaces/MyEclipse CI/mytao-rest/src/main/java/com/mytao/rest/service/iml/RedisServiceimpl.java
+/Users/ia/Workspaces/MyEclipse CI/mytao-rest/src/main/java/com/mytao/rest/controller/ContentController.java

@@ -1,0 +1,11 @@
+/Users/ia/Workspaces/MyEclipse CI/mytao-search/src/main/java/com/mytao/search/mapper/ItemMapper.java
+/Users/ia/Workspaces/MyEclipse CI/mytao-search/src/main/java/com/mytao/search/service/SearchService.java
+/Users/ia/Workspaces/MyEclipse CI/mytao-search/src/main/java/com/mytao/search/service/ItemService.java
+/Users/ia/Workspaces/MyEclipse CI/mytao-search/src/main/java/com/mytao/search/controller/ItemController.java
+/Users/ia/Workspaces/MyEclipse CI/mytao-search/src/main/java/com/mytao/search/pojo/Item.java
+/Users/ia/Workspaces/MyEclipse CI/mytao-search/src/main/java/com/mytao/search/pojo/SearchResult.java
+/Users/ia/Workspaces/MyEclipse CI/mytao-search/src/main/java/com/mytao/search/controller/SearchController.java
+/Users/ia/Workspaces/MyEclipse CI/mytao-search/src/main/java/com/mytao/search/service/impl/ItemServiceImpl.java
+/Users/ia/Workspaces/MyEclipse CI/mytao-search/src/main/java/com/mytao/search/dao/SearchDao.java
+/Users/ia/Workspaces/MyEclipse CI/mytao-search/src/main/java/com/mytao/search/dao/impl/SearchDaoImpl.java
+/Users/ia/Workspaces/MyEclipse CI/mytao-search/src/main/java/com/mytao/search/service/impl/SearchServiceImpl.java

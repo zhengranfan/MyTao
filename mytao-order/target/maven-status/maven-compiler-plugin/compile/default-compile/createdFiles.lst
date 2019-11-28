@@ -1,0 +1,9 @@
+com/mytao/order/dao/impl/JedisClientSingleImpl.class
+com/mytao/order/util/OrderState.class
+com/mytao/order/pojo/Order.class
+com/mytao/order/dao/JedisClient.class
+com/mytao/order/util/BuyerRate.class
+com/mytao/order/service/impl/OrderServiceImpl.class
+com/mytao/order/controller/OrderController.class
+com/mytao/order/dao/impl/JedisClientCluster.class
+com/mytao/order/service/OrderService.class
